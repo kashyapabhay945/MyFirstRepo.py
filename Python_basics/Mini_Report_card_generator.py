@@ -39,5 +39,5 @@ for student in data:
 average=total/total_students
 print("\n--------------------Class summary of today's test---------------------------")
 print(f"Average marks: {average:.2f}")
-print(f"Topper is '{topper_name}', secured highest marks i.e., {topper_marks} out of 100 with {topper_grade} performance in today's python test.\nKEEP IT UP!!")
+print(f"Topper is '{topper_name}', secured highest marks i.e., {topper_marks} out of 100 with '{topper_grade}' performance in today's python test.\n......KEEP IT UP!!....")
 print("-----------------------------------------------------------END OF REPORT-------------------------------------------------------------")
